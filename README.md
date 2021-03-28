@@ -183,6 +183,8 @@ You could join our slack team in case you need any help or have any questions. [
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+- Sign up for Call for Code: https://ibm.biz/Bdfs4k/
+- Slides: https://fawazsiddiqi.github.io/your-first-contribution/
 
 ## Tutorials Using Other Tools
 
