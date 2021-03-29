@@ -6,6 +6,8 @@ We assume that you have already finished with the basic tutorial before coming h
 
 ## Slides for workshop https://fawazsiddiqi.github.io/your-first-contribution/
 
+## Workshop Recording: https://www.crowdcast.io/e/open-source-2/
+
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
 > Use this when you need to adjust a commit you made.
