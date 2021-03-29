@@ -65,7 +65,7 @@
 <kbd>[<img title="Српски" alt="Српски" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/rs.svg" width="22">](translations/README.sr.md)</kbd>
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 
-# Join Call for Code: https://ibm.biz/Bdfs4k/
+# Join Call for Code [here](https://developer.ibm.com/dwwi/jsp/register.jsp?eventid=cfc2021challenge&utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10008917&utm_id=Mar2021-yourquickguidetoopensourcedevelopmentandsoftwaredevelopmenttrends-eventid-60334aad36771d5129a3361b-global-devadvgrp--franchise-workshop-dubai-cfc2021challenge)
 
 # Slides: https://fawazsiddiqi.github.io/your-first-contribution/
 
