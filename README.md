@@ -69,6 +69,8 @@
 
 # Slides: https://fawazsiddiqi.github.io/your-first-contribution/
 
+# Workshop Recording: https://www.crowdcast.io/e/open-source-2/
+
 # First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
