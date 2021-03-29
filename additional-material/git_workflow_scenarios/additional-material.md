@@ -2,7 +2,7 @@
 
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
-## Join Call for Code https://ibm.biz/Bdfs4k
+## Join Call for Code [here](https://developer.ibm.com/dwwi/jsp/register.jsp?eventid=cfc2021challenge&utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10008917&utm_id=Mar2021-yourquickguidetoopensourcedevelopmentandsoftwaredevelopmenttrends-eventid-60334aad36771d5129a3361b-global-devadvgrp--franchise-workshop-dubai-cfc2021challenge)
 
 ## Slides for workshop https://fawazsiddiqi.github.io/your-first-contribution/
 
