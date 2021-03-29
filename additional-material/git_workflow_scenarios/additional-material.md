@@ -48,7 +48,7 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 ### [Creating a .gitignore file](creating-a-gitignore-file.md)
 This document explains what a .gitignore file does, why to use it and how to create a .gitignore file. This file is used in almost all git projects. It helps commit only necessary files to git.
 
-### Sign-up for Call for Code https://ibm.biz/Bdfs4k
+## Join Call for Code https://ibm.biz/Bdfs4k
 
-### Slides for workshop https://fawazsiddiqi.github.io/your-first-contribution/
+## Slides for workshop https://fawazsiddiqi.github.io/your-first-contribution/
 
