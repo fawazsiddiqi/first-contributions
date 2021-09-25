@@ -30,6 +30,7 @@
 - [Ehimare Okosun](https://github.com/ehimare369)
 - [Thomas Roe] (https://github.com/roetom22)
 - [Bodan Bogdanov](https://github.com/bogdan2341)
+- [Deepak Pal](https://github.com/deepakpal9046)
 - [Sayak Mondal](https://github.com/isayakmondal)
 - [Hyeji Kim](https://github.com/HeidiHyeji)
 - [Gino Burdea](https://github.com/gino192837)
